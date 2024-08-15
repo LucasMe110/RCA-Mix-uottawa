@@ -1,4 +1,7 @@
 # Recycled Concrete Aggregates Mix-Design Application
+![](img/structure.jpeg)
+![](img/uottawa.png)
+
 
 ## Overview
 
